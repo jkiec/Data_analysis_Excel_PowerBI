@@ -5,3 +5,9 @@ The repository icludes projects that I completed as part of the Udemy courses: "
 - I added calculations using DAX,
 - I analyzed the data using Power Pivot (project 1)
 - I created a dynamic interactive report (project 2).
+
+The goals of the projects were:
+- KPI tracking (project 2),
+- regional performance comparison,
+- trends analysis at the product level,
+- high-value customers identification (project 2).

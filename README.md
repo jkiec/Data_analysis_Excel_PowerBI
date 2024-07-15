@@ -1,4 +1,4 @@
-# Data_analysis_Excel_PowerBi
+# Data_analysis_Excel_PowerBI
 The repository includes projects completed as part of the Udemy courses: "Microsoft Excel: Business Intelligence w/ Power Query & DAX" and "Microsoft Power BI Desktop for Business Intelligence". The projects present data analysis using Excel and Microsoft Power BI.
 It contains the following parts:
 - ETL process using Power Query to prepare data,

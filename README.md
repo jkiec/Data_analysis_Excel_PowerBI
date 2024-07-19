@@ -12,3 +12,8 @@ The goals of the projects were:
 - regional performance comparison,
 - trends analysis at the product level,
 - high-value customers identification (project 2).
+
+Data visualization demo:
+https://github.com/user-attachments/assets/bba74810-e1b4-45ad-893c-f39d56e17a02
+
+

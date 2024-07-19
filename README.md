@@ -14,6 +14,10 @@ The goals of the projects were:
 - high-value customers identification (project 2).
 
 Data visualization demo:
-https://github.com/user-attachments/assets/bba74810-e1b4-45ad-893c-f39d56e17a02
+https://github.com/user-attachments/assets/b946205b-48f0-4010-8c89-a6f661c6868e
+
+
+
+
 
 
